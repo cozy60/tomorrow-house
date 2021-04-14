@@ -1,5 +1,11 @@
+@import './base/fonts';
+
 p {
-  color: black;
   display: block;
+  color: #0081ff;
   text-transform: uppercase;
+}
+
+* {
+  font-family: 'Noto Sans KR', sans-serif;
 }
