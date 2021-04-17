@@ -1,13 +1,4 @@
+@import './constants/colors';
 @import './base/fonts';
 @import './base/normalize';
 @import './base/reset';
-
-p {
-  display: block;
-  color: #0081ff;
-  text-transform: uppercase;
-}
-
-* {
-  font-family: 'Noto Sans KR', sans-serif;
-}
