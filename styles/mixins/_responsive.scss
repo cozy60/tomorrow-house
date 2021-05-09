@@ -5,7 +5,7 @@
     }
   }
   @if ($screen == 'D') {
-    @media screen and (min-width: $md-breakpoint) {
+    @media screen and (min-width: $lg-breakpoint) {
       @content;
     }
   }
