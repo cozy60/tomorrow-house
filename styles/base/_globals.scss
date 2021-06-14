@@ -39,7 +39,7 @@
 }
 
 .md-hidden {
-  @media screen and (min-width: $md-breakpoint) and (max-width: $md-breakpoint - 1) {
+  @media screen and (min-width: $md-breakpoint) and (max-width: $lg-breakpoint - 1) {
     display: none !important;
   }
 }
