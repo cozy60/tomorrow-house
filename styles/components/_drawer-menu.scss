@@ -23,12 +23,12 @@
     }
     &.is-store {
       .drawer-menu-content {
-        max-height: _calculate-max-content-height($community-length);
+        max-height: _calculate-max-content-height($store-length);
       }
     }
     &.is-expert {
       .drawer-menu-content {
-        max-height: _calculate-max-content-height($community-length);
+        max-height: _calculate-max-content-height($expert-length);
       }
     }
 
