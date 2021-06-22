@@ -20,7 +20,7 @@
   }
 
   @include responsive(T) {
-    height: $gnb-height-md + $gnb-height-md;
+    height: $gnb-height-md + $lnb-height-md;
 
     .lnb {
       top: $gnb-height-md;
