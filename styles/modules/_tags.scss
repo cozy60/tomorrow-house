@@ -22,5 +22,5 @@
 .tag-gray {
   @extend %tag-base;
   color: $secondary;
-  background-color: border;
+  background-color: $border;
 }
